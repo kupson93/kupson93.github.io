@@ -1,11 +1,11 @@
 # Site settings
 author: Kaycie Upson
-title: 
+title: Data Science Exploration
 header-img: img/home-bg.png
 email: kaycieupson1991@gmail.com
 copyright_name: Kaycie Upson
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Making my way from mathlete into data scientist
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kupson93
